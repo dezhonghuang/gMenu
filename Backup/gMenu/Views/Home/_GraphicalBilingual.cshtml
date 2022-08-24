@@ -1,0 +1,21 @@
+﻿@model gLibrary.ViewModels.DishViewModel
+    
+<div class="w3-row">
+    <div class="li-left">
+        @Html.ActionImage("Details", "Home", new { rid = Model.Dish.RestaurantId, did = Model.Dish.Id }, Model.Dish.ThumbFolder + Model.Dish.DishImage, "center", Model.Dish.Name)
+    </div>
+    <div class="li-right">
+        <p>@Html.ActionLink(Model.Dish.Name, "Details", new { rid = Model.Dish.RestaurantId, did = Model.Dish.Id})</p>
+        <p>@Html.ActionLink(Model.Dish.AlienName, "Details", new { rid = Model.Dish.RestaurantId, did = Model.Dish.Id})</p>
+        <div class="btm">
+            <div class="btm-left"><span class="price">@Model.Dish.Price</span></div>
+            <div class="btm-right">
+                @Html.NumberFor(m => Model.Quantity, new { min = "1", @class = "qty" })
+                @Html.CheckBoxFor(m => Model.Ticked, new { @class = "ticked" })
+            </div>
+        </div>
+    </div>
+</div>
+
+
+ 

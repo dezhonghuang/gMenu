@@ -1,0 +1,88 @@
+﻿@model gLibrary.ViewModels.OrderViewModel
+
+@*<p><input id="btn-order" type="image" src="@Url.Content("~/images/save order.gif")" /></p>*@
+
+@{
+    ViewBag.Title = "Your Order";
+
+    var currentCategory = 9999;
+}
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "edit-form" }))
+{
+    @Html.ValidationSummary(true);
+    @Html.HiddenFor(model => model.OrderId);    
+    @Html.HiddenFor(model => model.RestaurantId);
+    @Html.HiddenFor(model => model.TableId);
+
+    <div class="order-main">
+        <ul id="gmenu">
+            @for (int i = 0; i < Model.Dishes.Count; i++)
+            {
+                var item = Model.Dishes[i];
+
+                if (currentCategory != item.Dish.CategoryId)
+                {
+                    if (currentCategory != 9999)
+                    {
+                        @Html.Raw("</ul>");
+                    }
+                    <li class="category">
+                        <div class="cat-name">@item.Dish.Category.Name</div>
+                        <div class="cat-alien">@item.Dish.Category.AlienName</div>
+                        <div class="r"></div>
+                    </li>
+                    currentCategory = item.Dish.CategoryId;
+        
+                    @Html.Raw("<li><ul class=\"dishes\">");
+                }         
+                
+                <li>
+                    @Html.HiddenFor(m => Model.Dishes[i].Dish.Id)
+                    @Html.HiddenFor(m => Model.Dishes[i].Dish.Price)
+                    @Html.HiddenFor(m => Model.Dishes[i].Dish.CategoryId)
+                    <div class="dish">
+                        @if (item.Dish.DishImage != null) {
+                        <div class="li-left">
+                            @*<a href="/home/details/@item.Dish.RestaurantId?did=@item.Dish.Id"><img class="center" src="@Url.Content(@item.Dish.ThumbFolder + item.Dish.DishImage)" /></a>*@
+                            @Html.ActionLink /home/details/@item.Dish.RestaurantId?did=@item.Dish.Id"><img class="center" src="@Url.Content(@item.Dish.ThumbFolder + item.Dish.DishImage)" /></a>
+                        </div>
+                        <div class="li-right">
+                            <div class="name">
+                                <p class="home">@item.Dish.Name</p>
+                                <p class="alien">@item.Dish.AlienName</p>
+                            </div>
+                            <div class="btm">
+                                <div class="btm-left"><span class="price">@item.Dish.Price</span></div>
+                                <div class="btm-right">
+                                    @Html.NumberFor(m => Model.Dishes[i].Quantity, new { min = "1", @class = "qty" })
+                                    @Html.CheckBoxFor(m => Model.Dishes[i].Ticked, new { @class = "ticked" })
+                                </div>
+                                <div class="r"></div>
+                            </div>
+                        </div>
+                       } else {
+                              <div class="textual-left">
+                                  <div class="name">
+                                        <p class="home">@item.Dish.Name</p>
+                                        <p class="alien">@item.Dish.AlienName</p>
+                                    </div>
+                              </div>
+                              <div class="textual-right">
+                                <p class="price">@item.Dish.Price</p>
+                                <div class="btm-right">@Html.NumberFor(m => Model.Dishes[i].Quantity, new { min = "1", @class = "qty" })@Html.CheckBoxFor(m => Model.Dishes[i].Ticked, new { @class = "ticked" })</div>
+                              </div>                           
+                        }
+                    </div>
+                </li>
+            }
+            @Html.Raw("</ul>")
+        </ul>
+        <div id="btn-order">Save Order</div>
+    </div>
+}
+
+@section Scripts{
+    <script src="@Url.Content("~/Scripts/gMenu/btnFunctions.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/gMenu/orderEdit.js")" type="text/javascript"></script>
+}

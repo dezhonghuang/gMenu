@@ -1,0 +1,21 @@
+﻿@model gLibrary.ViewModels.OrderListModel
+
+@{
+    ViewBag.Title = "OrderDetails";
+}
+
+<h2>Your Order</h2>
+
+@foreach (var item in Model.OrderDetails) {
+    <p>@Html.DisplayFor(modelItem => item.Dish.Bilingual.FullName)</p>
+    <p>@Html.DisplayFor(modelItem => item.Quantity) x @Html.DisplayFor(modelItem => item.Price)</p>
+}
+<div id="order-total">
+    <span>Total: </span>@Html.DisplayFor(model => model.Order.Total)
+</div>
+
+@*<div id="details-total">
+    @Html.DisplayFor(model => model.Order.Total)
+</div>    *@
+@*@Html.ActionLink("Ok", "PlaceOrder", new { order = @Model.Order.Id }) |
+@Html.ActionLink("Cancel", "Order", new { rid = (Model.Order != null) ? Model.Order.RestaurantId : 0, id = (Model.Order != null) ? Model.Order.TableId : 0 })*@

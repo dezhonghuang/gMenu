@@ -1,0 +1,15 @@
+﻿@model gLibrary.ViewModels.DishViewModel
+
+<div class="textual-left">
+    <a href="/home/details/Model.Dish.RestaurantId?did=Model.Dish.Id" class="name">Model.Dish.Name</a>
+    <a href="/home/details/Model.Dish.RestaurantId?did=Model.Dish.Id" class="alien">Model.Dish.AlienName</a>
+</div>
+<div class="textual-right">
+    <p class="price">Model.Dish.Price</p>
+    <div class="btm-right">
+        @Html.NumberFor(m => Model.Quantity, new { min = "1", @class = "qty" })
+        @Html.CheckBoxFor(m => Model.Ticked, new { @class = "ticked" })
+    </div>
+</div>                           
+
+

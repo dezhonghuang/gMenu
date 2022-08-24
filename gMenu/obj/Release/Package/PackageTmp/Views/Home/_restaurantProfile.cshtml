@@ -1,0 +1,9 @@
+﻿@model gLibrary.Models.Restaurant
+
+<div class="float-left">
+    <p class="site-title">@Html.ActionLink(Model.Bilingual.Name, "Contact", "Home")</p>
+</div>
+<div class="float-right">
+    <img id="restaurant-logo" src="@Url.Content(gMnts.RestaurantFolder + Model.Id.ToString() + gMnts.LogoFolder + ((Model.Logo == null) ? gMnts.LogoDefault : Model.Logo))" alt="@Model.Bilingual.FullName" />
+</div>
+<div class="r"></div>

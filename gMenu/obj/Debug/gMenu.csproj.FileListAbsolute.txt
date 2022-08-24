@@ -1,0 +1,219 @@
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\gMenu.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\gMenu.pdb
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\EntityFramework.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.Helpers.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.Mvc.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.Providers.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.Razor.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.WebPages.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.WebPages.Razor.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\EntityFramework.xml
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.Helpers.xml
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.Mvc.xml
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.Razor.xml
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.WebPages.xml
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OEM\Desktop\gMenu\gMenu\bin\System.Web.WebPages.Razor.xml
+C:\Users\OEM\Desktop\gMenu\gMenu\obj\Debug\gMenu.dll
+C:\Users\OEM\Desktop\gMenu\gMenu\obj\Debug\gMenu.pdb
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gMenu.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gMenu.pdb
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Helpers.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Mvc.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Providers.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Razor.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.xml
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Helpers.xml
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Mvc.xml
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Razor.xml
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.xml
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.xml
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMnt.Migrations.init.resources
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.Migrations._1st.resources
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.csproj.GenerateResource.Cache
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.dll
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.pdb
+C:\Users\OEM\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gMenu.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gMenu.pdb
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gLibrary.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\Microsoft.Web.Infrastructure.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Helpers.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Mvc.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Providers.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Razor.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gLibrary.pdb
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.xml
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.xml
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Helpers.xml
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Mvc.xml
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Razor.xml
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.xml
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.xml
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.xml
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.dll
+D:\My Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.pdb
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gMenu.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gMenu.pdb
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gLibrary.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Helpers.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Mvc.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Providers.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gLibrary.pdb
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Helpers.xml
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Mvc.xml
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.xml
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.xml
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.dll
+C:\Users\win7\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.pdb
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.csprojResolveAssemblyReference.cache
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\obj\Debug\gMenu.pdb
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gMenu.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gMenu.pdb
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gLibrary.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Helpers.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Mvc.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Providers.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Razor.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\gLibrary.pdb
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Helpers.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Mvc.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.Razor.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\gMenu.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\gMenu.pdb
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\EntityFramework.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\EntityFramework.SqlServer.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\gLibrary.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.Helpers.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.Mvc.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.Providers.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.Razor.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.WebPages.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\gLibrary.pdb
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\EntityFramework.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\EntityFramework.SqlServer.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.Helpers.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.Mvc.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.Razor.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.WebPages.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\obj\Debug\gMenu.csprojResolveAssemblyReference.cache
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\obj\Debug\gMenu.dll
+C:\Users\Jupiter\Documents\Visual Studio 2012\Projects\Restaurant\gMenu\gMenu\obj\Debug\gMenu.pdb
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\gMenu.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\gMenu.pdb
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\EntityFramework.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\EntityFramework.SqlServer.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.Helpers.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.Mvc.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.Providers.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.Razor.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.WebPages.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\EntityFramework.xml
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\EntityFramework.SqlServer.xml
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.Helpers.xml
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.Mvc.xml
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.Razor.xml
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.WebPages.xml
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\obj\Debug\gMenu.csprojResolveAssemblyReference.cache
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\obj\Debug\gMenu.dll
+C:\Users\Jupiter\Desktop\Temp\gMenu\gMenu\obj\Debug\gMenu.pdb
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gMenu.dll.config
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gMenu.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gMenu.pdb
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\EntityFramework.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gLibrary.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Helpers.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Mvc.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Providers.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Razor.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gLibrary.pdb
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\EntityFramework.xml
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.xml
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Helpers.xml
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Mvc.xml
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Razor.xml
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.xml
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.xml
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\obj\Debug\gMenu.csprojResolveAssemblyReference.cache
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\obj\Debug\gMenu.dll
+C:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\obj\Debug\gMenu.pdb
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gMenu.dll.config
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gMenu.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gMenu.pdb
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\EntityFramework.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gLibrary.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\Microsoft.Web.Infrastructure.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Helpers.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Mvc.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Providers.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Razor.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\gLibrary.pdb
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\EntityFramework.xml
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\EntityFramework.SqlServer.xml
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Helpers.xml
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Mvc.xml
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.Razor.xml
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.xml
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.Deployment.xml
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\bin\System.Web.WebPages.Razor.xml
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\obj\Debug\gMenu.csprojResolveAssemblyReference.cache
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\obj\Debug\gMenu.dll
+F:\Users\dezhong\Documents\Visual Studio 2015\Projects\gMenu\gMenu\obj\Debug\gMenu.pdb

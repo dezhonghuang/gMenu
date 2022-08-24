@@ -1,0 +1,23 @@
+﻿@model gLibrary.Models.Dish
+
+@{
+    ViewBag.Title = Model.Name;
+}
+
+<fieldset>
+    <legend>@Model.Name</legend>
+    <div id="dish-details">
+        <h1 id="home">@Model.Name</h1>
+        <p id="alien">@Html.DisplayFor(model => model.AlienName)</p>
+        <p id="price">Price: @Html.DisplayFor(model => model.Price)</p>
+
+        @{
+            var src = String.Format(Model.ImageFolder + "{0}", Model.DishImage);
+        }
+        <img alt="dish image" id="image" src="@Url.Content(Model.ImageFolder + Model.DishImage)" />
+     </div>
+</fieldset>
+
+<div id="a-back">
+    <a href="javascript:history.go(-1)">Back</a>
+</div>

@@ -1,0 +1,22 @@
+﻿@model gLibrary.ViewModels.DishViewModel
+
+<div>
+    <div class="li-left">
+        <a href="/home/details/@Model.Dish.RestaurantId?did=@Model.Dish.Id"><img class="center" src="@Url.Content(@Model.Dish.ThumbFolder + item.Dish.DishImage)" /></a>
+    </div>
+    <div class="li-right">
+        <p><a href="/home/details/@Model.Dish.RestaurantId?did=@Model.Dish.Id"  class="name">@Model.Dish.Name</a></p>
+        <p><a href="/home/details/@Model.Dish.RestaurantId?did=@Model.Dish.Id" class="alien">@Model.Dish.AlienName</a></p>
+        <div class="btm">
+            <div class="btm-left"><span class="price">@Model.Dish.Price</span></div>
+            <div class="btm-right">
+                @Html.HiddenFor(m => Model.Dishes[i].Dish.Id)
+                @Html.HiddenFor(m => Model.Dishes[i].Dish.Price)
+                @Html.HiddenFor(m => Model.Dishes[i].Dish.CategoryId)
+                @Html.NumberFor(m => Model.Dishes[i].Quantity, new { min = "1", @class = "qty" })
+                @Html.CheckBoxFor(m => Model.Dishes[i].Ticked, new { @class = "ticked" })
+            </div>
+            <div class="r"></div>
+        </div>
+    </div>
+</div>
